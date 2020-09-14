@@ -1,2 +1,0 @@
-# sciqant.github.io
-scIQant
